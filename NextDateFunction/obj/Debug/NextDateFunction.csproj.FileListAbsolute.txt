@@ -1,0 +1,10 @@
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\bin\Debug\NextDateFunction.exe.config
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\bin\Debug\NextDateFunction.exe
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\bin\Debug\NextDateFunction.pdb
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.frmNextDate.resources
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.Properties.Resources.resources
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.exe
+C:\Users\rober\source\repos\NextDateFunction\NextDateFunction\obj\Debug\NextDateFunction.pdb
